@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+.kotak{
+    width: 300px;
+    height: auto;
+    background: orange;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.kotak span{
+    background: red;
+    padding: 10px;
+}
+botton{
+    color: #fff;
+    background: #232323;
+    border: none;
+    padding: 10px;
+}
